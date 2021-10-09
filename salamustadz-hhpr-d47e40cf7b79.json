@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "salamustadz-hhpr",
+  "private_key_id": "d47e40cf7b7938e138809a9509a532e4ed4e4db0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCV2/2FQrRwvpdv\na81tTKiFh55f8XCLkXCm+UcfGUCGyOANEiwYuqS+n9tXe3iA97unvtt2eI/cDNCp\niyVLFvnlGEjT6EqzFUbCmPUMdYygvrzPe/JdGKNJVL+Ea7tbcHCnoHkTwogJM0xN\nWPuU3Crz01J8qKhv95zrLIiyVnDDHSiFI1sEZvP8Wl94hcx9Rxi4J2HxovLdqjgR\n1WJx/SHJ9bevJUsY7r/d6WRV8B6AmCGeMF7A9G32IXl+Yp5S8Je7PB1po54i8laC\ntjEFz2YxiW4JO+lUQClybDDUaCWygL0tVpTcRD27FtD7Rm168wm38fNne9AipEQx\nFpc1/LW9AgMBAAECggEAJW1WvSI6fgD/wb5fBSn02bqUAZrDdLwLckxGKLxuCuue\n12zfMgLlU82JYqkt4KnehmfKmGVGapsRvxJHK2CO41pkD/aPN3g8HqxEYUr3ZwsU\nDU7DqmAVoeImXcxpM85aeGcB7j8yqfeTmiq71IMDQDeaPZOC08n3+R07e6zOh0/+\nRXpL9JG+rtYvS0qJSz6u1CogBSPa1Mfowk1vT1tV/HX8V2OPuNh3lVGQ/8FrAwn6\nfZ8RxJbx2b5a5sHRH9bG+Kg33WnOQhfDkbOEmFWMQ8NpTX1ykrQ3nUODqrZ0IOAv\nDNuI2icUmXEh0MehCigkUQqOg3HnbyIjfYdxJ3kWaQKBgQDNUtzSotbUXH3QoqPz\nSvouIx3PUF1P5lQLIc/AlO+gG1/61vN9tdTy2t2ZVE8LpvdBgiaoqrym72yjt8ag\nCF1bi6sxrM/Zu6lOo8ZtFMOYGDYnvJgZTNE2rYVjWFlh8X9lZZbFFGGJGXOl67pb\nSBGugBGAhPJ6aLqcTweNcHBIGQKBgQC62K2Cy65ERNb55SloBnDfatAJSFaOYJDu\nsl80KAf15ugmj4m+RaKQBWrL2469IAjKYB7B35MNcNT1Wi2Wu6hXTbbRRZTOu1BH\nEB7nubkvud5VV9qos9eQDuoUmDRt8+cEZGk/9p7XZF+v5aCmJU0us9duYGKeYTXX\nu4mHI7hfRQKBgDyJsPgd8Q9+Ec6BFav3MFqIGhL1E/4p4B/EIVgb0ac4Sw1PcU1g\nXmAYbfv2YrQBz6ct864JYUQrFbITzmmC7du/C4PC+ymsbhf0q92foKfog5clwQa8\nonbnpIuNEhWRuckwscp73uIocfO61CBz2FrGAeMNz9yNom/R0V0/iKuJAoGADkIE\nk4uJY8pBAVa8XyTGrjXPZDXx7PFvfdd8rlUzrk8NfgvL/goASq8vJBk//iyYnyDQ\nmAjAhvEKPyK/gdYWFXtnrPZ7UX83tASF5zbj68FqNub6V49JrsOEl0e6EH3hLhOf\neHMQUe1l491I8gS8rAirMtAGFoHigvDboMVYB2UCgYEAzINwlO5+Fa7VOUfrVeoe\n8uk4J1sqqv9jOZudBeMEf/fxcMaLc4GpyxWDcXGQDMy/OK7BfZnTL3VY9qM0RUj6\nza4pxkMqxZcaiM26pbgZaa+IYrhTSycohO6A6VLYkDURr6Rqtg0E0UXbOwliloq3\nOciAmg5MiqHu1u46fvz6OZc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "salamustadz@salamustadz-hhpr.iam.gserviceaccount.com",
+  "client_id": "101397821306051521846",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/salamustadz%40salamustadz-hhpr.iam.gserviceaccount.com"
+}
